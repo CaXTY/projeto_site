@@ -1,7 +1,7 @@
 <h1> Projeto Site </h1>
 
 <h2> Sobre </h2>
-<p> Projeto criado durante o Curso em Vídeo. </p>
+<p> | Projeto criado durante o Curso em Vídeo. </p>
 
 ---
 ## Instalação 
