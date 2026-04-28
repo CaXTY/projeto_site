@@ -6,11 +6,15 @@
 ---
 ## Instalação 
 
-1. Clone o repositório ou faça o download dos arquivos.
-2. Abra o arquivo `index.html` no seu navegador.
+| Clone o repositório ou faça o download dos arquivos. <br>
+| Abra o arquivo `index.html` no seu navegador.
 
 ---
-## 🚀 Tecnologias
+## Autor
+| Carlos Eduardo <br> https://github.com/CaXTY
+
+---
+## 🚀 Tecnologias Utilizadas
 <div>
   <img
     align="left" 
